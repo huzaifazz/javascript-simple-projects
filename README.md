@@ -149,11 +149,6 @@ Feel free to fork this repository and add your own simple JavaScript projects! M
 4. Comment your JavaScript code
 5. Test across different browsers
 
-## Connect
-
-- **GitHub:** [huzaifazz](https://github.com/huzaifazz)
-- **Portfolio:** [Your Portfolio Link]
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
